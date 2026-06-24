@@ -9,7 +9,7 @@
 
 MIS graduate with hands-on experience in business process analysis, requirements documentation, and data-driven decision support.
 
-- 🏆 Top 3 finish in Maven Analytics Hackathon — analysed **1.7M+ records** across 6 tables
+- 🏆 Top 3 finish in Maven Analytics Hackathon  analysed **1.7M+ records** across 6 tables
 - 🏦 Reduced operational inefficiencies by **up to 25%** across two banking internships
 - 📊 Built Power BI dashboards for real stakeholders at a tech startup
 - 🎓 Currently completing a nationally competitive **9-month MCIT Business Analysis scholarship**
